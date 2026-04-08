@@ -1,19 +1,42 @@
 *{
-    background-color: aqua;
+    background-color: rgb(218, 186, 113);
     font-weight: 700;
-    font-size: 100px;
+
 
 
 }
 
 h1 {
-    color: red;
+    color: rgb(128, 41, 17);
+    font-size: 5rem;
 }
 a {
-    background-color: aliceblue;
+    background-color: rgb(205, 197, 149);
 color: black;
 text-decoration: none;
 }
 
 
 
+#header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 6rem;
+    margin-right: 6rem;
+
+
+}
+
+#recipes{   
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+     align-items: center ;
+    font-size: 1.5rem;
+}
+img {
+    width: 20rem;
+    height: auto;
+}
