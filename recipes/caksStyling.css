@@ -1,0 +1,29 @@
+*{
+    background-color: blanchedalmond;
+    font-size: 1.1rem;
+}
+
+#description{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#ingredient{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+    color: rgb(13, 13, 12);
+}
+
+#steep{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#ingrediant>h2{
+color: aqua;
+}
