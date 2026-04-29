@@ -8,6 +8,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    color: rgb(112, 26, 26);
 }
 
 #ingredient{
