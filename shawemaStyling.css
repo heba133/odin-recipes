@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(193, 127, 211);
+    font-size: 1.1rem;
+}
+
+#description{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(90, 37, 102);
+}
+
+#ingredient{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+    color: rgb(54, 32, 52);
+}
+
+#steep{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#ingrediant>h2{
+color: aqua;
+}
