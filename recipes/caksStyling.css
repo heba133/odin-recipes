@@ -4,10 +4,7 @@
 }
 
 #description{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    
     color: rgb(112, 26, 26);
 }
 
@@ -20,11 +17,22 @@
 }
 
 #steep{
+   justify-content: start;
+   align-items: start;
+
+}
+
+.elements-of-recipes{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-}
+
+} 
+
 #ingrediant>h2{
 color: aqua;
 }
+
+
+
